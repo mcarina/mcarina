@@ -1,10 +1,8 @@
 <h1>Márcia Carina<h1>
 
 - 👋 hi :)
-- 📚 Systems Analysis and Development student
 - 🌱 Learning React js, Angular, TypeScript and Database
-- 🖥 Front-end Dev. Towards full stack.
-- 📫 marciacarina931@gmail.com
+
 
 <!---
 mcarina/mcarina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
