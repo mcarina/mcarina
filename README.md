@@ -10,11 +10,11 @@
 mcarina/mcarina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!-- 
 <div align="center">
   <a href="https://github.com/mcarina">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mcarina&show_icons=false&theme=default&include_all_commits=true&count_private=true"/> 
-</div>           
+</div>            -->
 
 <br>
 
@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 
 <br>
 
