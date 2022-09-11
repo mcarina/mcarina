@@ -1,13 +1,6 @@
 <h1>Márcia Carina<h1>
 
-- 👋 hi :)
-- 🌱 Learning React js, Angular, TypeScript and Database
 
-
-<!---
-mcarina/mcarina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <br>
 
