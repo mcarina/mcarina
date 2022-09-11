@@ -1,7 +1,9 @@
-- 👋 Olá meu nome é Márcia carina
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo React js, Angular, TypeScript e Banco de Dados
-- 🖥 Front-end Dev. Rumo ao Full stack.
+<h1>Márcia Carina<h1>
+
+- 👋 hi :)
+- 📚 Systems Analysis and Development student
+- 🌱 Learning React js, Angular, TypeScript and Database
+- 🖥 Front-end Dev. Towards full stack.
 - 📫 marciacarina931@gmail.com
 
 <!---
