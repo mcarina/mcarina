@@ -32,7 +32,7 @@
 ### Contact:
 <div> 
   <a href = "mailto:marciacarina931@gmail.com"><img src="https://icongr.am/simple/gmail.svg?size=35&color=cd1313&colored=false" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/márcia-carina-bb623b1ba" target="_blank"><img src="https://www.linkedin.com/in/m%C3%A1rcia-carina/" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/márcia-carina-bb623b1ba" target="_blank"><img src="https://icongr.am/devicon/linkedin-plain.svg?size=35&color=4474a2"></a> 
  
 </div>
 
