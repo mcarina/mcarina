@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=222020&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!,+My+Name+is+Márcia+Carina;I+from+Brasil,+AM.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8679a0&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!,+My+Name+is+Márcia+Carina;I+from+Brasil,+AM.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <h2>More about me 😽 </h2>
