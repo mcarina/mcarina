@@ -22,7 +22,7 @@
 
 ### Tools:
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://icongr.am/devicon/github-original.svg?size=35&color=1955a4)&nbsp;
+![GitHub](https://icongr.am/simple/github.svg?size=35&color=3b1d72&colored=false)&nbsp;
 ![Windows](https://icongr.am/devicon/windows8-original.svg?size=33&color=1955a4)&nbsp;
 ![Vs Code](https://icongr.am/devicon/visualstudio-plain.svg?size=33&color=1955a4)&nbsp;
 
