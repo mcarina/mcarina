@@ -11,31 +11,37 @@
   <li>Php;</li>
 
 ### Main skills:
-<div style="display: inline_block"><br>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="Html5">
-  <img align="center"height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="Css3">
-  <img align="center"height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+<div style="display: inline_block">
+  <img align="center" height="35" width="45" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=49&color=0342bd" title="Html5">
+  <img align="center"height="35" width="45" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=49&color=df8f20" title="Css3">
+  <img align="center"height="35" width="45" src="https://icongr.am/devicon/javascript-original.svg?size=49&color=0342bd" title="JavaScript">
   <!-- !<img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" -->
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React.js">
-  
+  <img align="center" height="35" width="45" src="https://icongr.am/devicon/react-original-wordmark.svg?size=49&color=df8f20" title="React.js">
+ <img align="center" height="60" width="45" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=60&color=df8f20" title="Nodejs">
+ <img align="center" height="55" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=45&color=df8f20" title="MongoDB">
 </div>
 
-
 ### Tools:
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://icongr.am/simple/github.svg?size=35&color=3b1d72&colored=false )&nbsp; 
-![Windows](https://icongr.am/devicon/windows8-original.svg?size=33&color=1955a4)&nbsp;
-![Vs Code](https://icongr.am/devicon/visualstudio-plain.svg?size=33&color=1955a4)&nbsp;
+<div>
+<img align="center" height="40" width="45" src="https://icongr.am/simple/github.svg?size=49&color=2b1c72&colored=false" title="GitHub">
+<img align="center" height="40" width="45" src="https://icongr.am/devicon/windows8-original.svg?size=33&color=1955a" title="Windows">
+<img align="center" height="40" width="45" src="https://icongr.am/devicon/visualstudio-plain.svg?size=33&color=1955a4" title="Vs Code">
+ </div>
+
+
 
 ### Other Knowledge:
-![microsoft-office](https://icongr.am/simple/microsoftoffice.svg?size=35&color=cd6713&colored=false)&nbsp;
+<div>
+ <img align="center" height="55" width="45" src="https://icongr.am/simple/postman.svg?size=43&color=df8f20&colored=false" title="Postman">
+ <img align="center" height="55" width="45" src="https://icongr.am/simple/microsoftoffice.svg?size=45&color=cd6713&colored=false" title="Office365">
+ </div>
+ 
 ### Contact:
 <div> 
   <a href = "mailto:marciacarina931@gmail.com"><img src="https://icongr.am/simple/gmail.svg?size=35&color=cd1313&colored=false" title="Gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcia-carina/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=35&color=5576aa" title="Linkedin" target="_blank"></a> 
  
 </div>
-
 
 
 
