@@ -28,6 +28,7 @@
 
 ### Tools:
 <div>
+<img align="center" height="55" width="45" src="https://user-images.githubusercontent.com/102268481/205415712-6f444de1-63df-46db-9f72-3ff0b80492ec.png" title="Git">
 <img align="center" height="55" width="45" src="https://icongr.am/simple/github.svg?size=49&color=2b1c72&colored=false" title="GitHub">
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/windows8-original.svg?size=33&color=1955a" title="Windows">
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/visualstudio-plain.svg?size=33&color=1955a4" title="Vs Code">
@@ -47,6 +48,5 @@
   <a href="https://www.linkedin.com/in/marcia-carina/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=35&color=5576aa" title="Linkedin" target="_blank"></a> 
  
 </div>
-
 
 
