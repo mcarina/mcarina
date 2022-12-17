@@ -10,22 +10,22 @@
  <li>Angular;</li>
  <li>Flutter;</li>
  <li>Php;</li>
- <li>MySql.</li>
+ <li>Sql.</li>
 
-### Main skills:
+### Front-end:
 <div style="display: inline_block">
   <img align="center" height="55" width="45" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=49&color=0342bd" title="Html5">
   <img align="center"height="55" width="45" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=49&color=df8f20" title="Css3">
   <img align="center"height="45" width="45" src="https://icongr.am/devicon/javascript-original.svg?size=49&color=0342bd" title="JavaScript">
-  <!-- !<img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" -->
   <img align="center" height="55" width="45" src="https://icongr.am/devicon/react-original-wordmark.svg?size=49&color=df8f20" title="React.js">
- <img align="center" height="80" width="45" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=60&color=df8f20" title="Nodejs">
-
+ 
 </div>
 
-### DataBases:
+### Back-end:
 <div>
  <img align="center" height="60" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=45&color=df8f20" title="MongoDB">
+ 
+ <img align="center" height="80" width="45" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=60&color=df8f20" title="Nodejs">
  </div>
 
 ### Tools:
