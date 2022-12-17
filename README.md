@@ -5,10 +5,12 @@
 <h2>More about me 😺 </h2>
 <p>Systems Analysis and Development student at Martha Falcão college, I chose this area because I have always admired it and I really like it and I intend to professionalize myself in an area that I have always been fascinated.</p>
 <h4>Currently Studying: </h4>
- <li>React.js;</li>
+
  <li>TypeScript;</li>
  <li>Angular;</li>
-  <li>Php;</li>
+ <li>Flutter;</li>
+ <li>Php;</li>
+ <li>MySql.</li>
 
 ### Main skills:
 <div style="display: inline_block">
