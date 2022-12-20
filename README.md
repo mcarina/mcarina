@@ -6,7 +6,6 @@
 <p>Systems Analysis and Development student at Martha Falcão college, I chose this area because I have always admired it and I really like it and I intend to professionalize myself in an area that I have always been fascinated.</p>
 <h4>Currently Studying: </h4>
 
- <li>TypeScript;</li>
  <li>Angular;</li>
  <li>Flutter;</li>
  <li>Java;</li>
