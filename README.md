@@ -8,6 +8,7 @@
 
  <li>Angular;</li>
  <li>Flutter;</li>
+ <li>Ionic;</li>
  <li>Java;</li>
  <li>Php;</li>
  <li>Sql.</li>
