@@ -20,6 +20,7 @@
   <img align="center"height="45" width="45" src="https://icongr.am/devicon/javascript-original.svg?size=49&color=0342bd" title="JavaScript">
   <img align="center"height="45" width="45" src="https://icongr.am/devicon/typescript-original.svg?size=47&color=currentColor" title="TypeScript">
   <img align="center" height="55" width="45" src="https://icongr.am/devicon/react-original-wordmark.svg?size=49&color=df8f20" title="React.js">
+  <img align="center"height="45" width="45" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" title="Angular">
  
 </div>
 
