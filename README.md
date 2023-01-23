@@ -39,13 +39,13 @@
 
 
 
-### Other Knowledge:
+### Outros Conhecimentos:
 <div>
    <img align="center" height="49" width="45" src="https://icongr.am/simple/postman.svg?size=43&color=df8f20&colored=false" title="Postman">
    <img align="center" height="50" width="45" src="https://icongr.am/simple/microsoftoffice.svg?size=45&color=cd6713&colored=false" title="Office365">
 </div>
  
-### Contact:
+### Contato:
 <div> 
   <a href = "mailto:marciacarina931@gmail.com"><img src="https://icongr.am/simple/gmail.svg?size=35&color=cd1313&colored=false" title="Gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcia-carina/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=35&color=5576aa" title="Linkedin" target="_blank"></a> 
