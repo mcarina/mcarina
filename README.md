@@ -10,7 +10,7 @@
  <li>Flutter;</li>
  <li>Ionic;</li>
  <li>Java;</li>
- <li>Sql.</li>
+
 
 ### Front-end:
 <div style="display: inline_block">
