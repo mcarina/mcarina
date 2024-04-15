@@ -3,13 +3,11 @@
 
 <br>
 <h2>Mais sobre mim 😺 </h2>
-<p>Estudante de Análise e Desenvolvimento de Sistemas da Faculdade Martha Falcão, escolhi essa área pois sempre fui fascinada na área e pretendo me profissionalizar nela.</p>
+<p>Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Martha Falcão, escolhi essa área pois sempre fui fascinada na área e pretendo me profissionalizar nela.</p>
+
 <h4>Atualmente Estudando: </h4>
 
- <li>Angular;</li>
- <li>Flutter;</li>
- <li>Ionic;</li>
- <li>Java;</li>
+ <li>Flask Rest Api;</li>
 
 
 ### Front-end:
@@ -25,6 +23,9 @@
 
 ### Back-end:
 <div>
+ <img align="center" height="80" width="45" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" title="Python">
+ <img align="center" height="80" width="45" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" title="Postgresql">
+ <img align="center" height="80" width="45" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" title="Mysql">
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" title="Nodejs">
  <img align="center" height="60" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=111&color=currentColor" title="MongoDB">
  </div>
@@ -33,7 +34,9 @@
 <div>
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/git-original.svg?size=61&color=currentColor" title="Git">
 <img align="center" height="55" width="45" src="https://icongr.am/simple/github.svg?size=49&color=2b1c72&colored=false" title="GitHub">
+ <img align="center" height="55" width="45" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=currentColor" title="Docker">
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/windows8-original.svg?size=33&color=1955a" title="Windows">
+<img align="center" height="55" width="45" src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor" title="Linux">
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/visualstudio-plain.svg?size=33&color=1955a4" title="Vs Code">
  </div>
 
@@ -41,7 +44,9 @@
 
 ### Outros Conhecimentos:
 <div>
-   <img align="center" height="49" width="45" src="https://icongr.am/simple/postman.svg?size=43&color=df8f20&colored=false" title="Postman">
+   <img align="center" height="49" width="45" src="https://icongr.am/devicon/java-original-wordmark.svg?size=50&color=currentColor" title="Java">
+   <img align="center" height="49" width="45" src="https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor" title="C Plus Plus">
+   <img align="center" height="49" width="45" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=50&color=currentColor" title="Redis">
    <img align="center" height="50" width="45" src="https://icongr.am/simple/microsoftoffice.svg?size=45&color=cd6713&colored=false" title="Office365">
 </div>
  
