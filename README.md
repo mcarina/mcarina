@@ -24,6 +24,7 @@
 ### Back-end:
 <div>
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" title="Python">
+ <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" />
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" title="Postgresql">
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" title="Mysql">
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" title="Nodejs">
