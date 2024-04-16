@@ -31,7 +31,7 @@
  <img align="center" height="60" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=111&color=currentColor" title="MongoDB">
  </div>
 
-### Tools:
+### Ferramentas:
 <div>
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/git-original.svg?size=61&color=currentColor" title="Git">
 <img align="center" height="55" width="45" src="https://icongr.am/simple/github.svg?size=49&color=2b1c72&colored=false" title="GitHub">
