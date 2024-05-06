@@ -23,23 +23,26 @@
 
 ### Back-end:
 <div>
+ <img align="center" height="80" width="45" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" title="Postgresql">
+ <img align="center" height="80" width="45" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" title="Mysql">
+ <img align="center" height="60" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=111&color=currentColor" title="MongoDB">
+ <img align="center" height="80" width="45" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" title="Nodejs">
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" title="Python">
  <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" />
  <img align="center" height="80" width="60" src="https://icongr.am/devicon/django-original.svg?size=80&color=currentColor" title="Django">
- <img align="center" height="80" width="45" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" title="Postgresql">
- <img align="center" height="80" width="45" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" title="Mysql">
- <img align="center" height="80" width="45" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" title="Nodejs">
- <img align="center" height="60" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=111&color=currentColor" title="MongoDB">
+
+ 
+ 
  </div>
 
 ### Ferramentas:
 <div>
+<img align="center" height="55" width="45" src="https://icongr.am/devicon/visualstudio-plain.svg?size=33&color=1955a4" title="Vs Code">
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/git-original.svg?size=61&color=currentColor" title="Git">
 <img align="center" height="55" width="45" src="https://icongr.am/simple/github.svg?size=49&color=2b1c72&colored=false" title="GitHub">
- <img align="center" height="55" width="45" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=currentColor" title="Docker">
+<img align="center" height="55" width="45" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=currentColor" title="Docker">
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/windows8-original.svg?size=33&color=1955a" title="Windows">
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor" title="Linux">
-<img align="center" height="55" width="45" src="https://icongr.am/devicon/visualstudio-plain.svg?size=33&color=1955a4" title="Vs Code">
  </div>
 
 
