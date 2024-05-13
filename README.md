@@ -7,7 +7,7 @@
 
 <h4>Atualmente Estudando: </h4>
 
- <li>Django Rest Api;</li>
+ <li>Django REST framework;</li>
 
 
 ### Front-end:
