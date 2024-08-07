@@ -3,12 +3,7 @@
 
 <br>
 <h2>Mais sobre mim 😺 </h2>
-<p>Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Martha Falcão, escolhi essa área pois sempre fui fascinada na área.</p>
-
-<h4>Atualmente Estudando: </h4>
-
- <li>Django REST framework;</li>
-
+<p>Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Martha Falcão.</p>
 
 ### Front-end:
 <div style="display: inline_block">
