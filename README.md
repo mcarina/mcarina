@@ -30,14 +30,14 @@
 
 ### Back-end:
 <div>
- <img align="center" height="80" width="45" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" title="Python">
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" title="Nodejs">
- <img align="center" height="80" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" title="Postgresql">
  <img align="center" height="80" width="60"height="60" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=111&color=currentColor" title="MongoDB">
+ <img align="center" height="80" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" title="Postgresql">
  <img align="center" height="90" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" title="Mysql">
-<img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" />
-<img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" title="Django">
-<img align="center" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" title="Laravel 11" />
+ <img align="center" height="80" width="45" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" title="Python">
+ <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" />
+ <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" title="Django">
+ <img align="center" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" title="Laravel 11" />
 
  </div>
 
