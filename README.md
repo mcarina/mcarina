@@ -1,10 +1,22 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8679a0&size=35&center=true&vCenter=true&width=1000&lines=Oiii!!,+Meu+Nome+é+Márcia+Carina+:%29)](https://git.io/typing-svg)
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarina&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ilustração do status do github">
 
-<br>
-<h2>Mais sobre mim 😺 </h2>
-<p>Formada em Análise e Desenvolvimento de Sistemas pela Faculdade Martha Falcão.</p>
+### Olá, me chamo Márcia Carina!
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=Mcarina&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando como analista de sistemas.<br/> Eu sou desenvolvedora Full Stack, formada pela Faculdade Martha Falcão.</p>
+
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formada em Analise e Desenvolvimento de Sistemas.
+- 💼 Trabalhando como analista de sistemas na Evereste, Seduc-Am.
+- 🌱 Aprendendo mais sobre Laravel 11.
+
+
+## Minhas Skills
 ### Front-end:
 <div style="display: inline_block">
   <img align="center" height="55" width="45" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=49&color=0342bd" title="Html5">
@@ -20,6 +32,9 @@
 <div>
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" title="Python">
  <img align="center" height="80" width="45" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" title="Nodejs">
+ <img align="center" height="80" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" title="Postgresql">
+ <img align="center" height="80" width="60"height="60" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=111&color=currentColor" title="MongoDB">
+ <img align="center" height="90" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" title="Mysql">
  
  </div>
 
@@ -30,13 +45,6 @@
 <img align="center" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" title="Laravel 11" />
 
  </div>
-
-### Banco de Dados:
-<div>
-<img align="center" height="80" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" title="Postgresql">
-<img align="center" height="80" width="60"height="60" width="45" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=111&color=currentColor" title="MongoDB">
-<img align="center" height="90" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" title="Mysql">
-</div>
 
 ### Ferramentas:
 <div>
