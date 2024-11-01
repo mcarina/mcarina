@@ -1,7 +1,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarina&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ilustração do status do github">
 
-### Olá, me chamo Márcia Carina!
+ <h1>Olá, me chamo Márcia Carina!</h1>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Mcarina&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
