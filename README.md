@@ -1,22 +1,16 @@
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarina&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ilustração do status do github">
-
- <h1>Olá, me chamo Márcia Carina!</h1>
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Mcarina&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Trabalhando como analista de sistemas.<br/> Eu sou desenvolvedora Full Stack, formada pela Faculdade Martha Falcão.</p>
+## 💜 Olá, me chamo Márcia Carina!
 
 
-## Sobre mim
+### 💬 Sobre mim:
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como analista de sistemas na Evereste, Seduc-Am.
 - 🌱 Aprendendo mais sobre Laravel 11 e Next.js.
 
+<br>
 
-## Minhas Skills
+## 🚀 Minhas Skills
 ### Front-end:
 <div style="display: inline_block">
   <img align="center" height="55" width="45" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=49&color=0342bd" title="Html5">
@@ -52,8 +46,6 @@
 <img align="center" height="55" width="45" src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor" title="Linux">
  </div>
 
-
-
 ### Outros Conhecimentos:
 <div>
    <img align="center" height="49" width="45" src="https://icongr.am/devicon/java-original-wordmark.svg?size=50&color=currentColor" title="Java">
@@ -61,12 +53,27 @@
    <img align="center" height="49" width="45" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=50&color=currentColor" title="Redis">
    <img align="center" height="50" width="45" src="https://icongr.am/simple/microsoftoffice.svg?size=45&color=cd6713&colored=false" title="Office365">
 </div>
- 
+
+
 ### Contato:
 <div> 
   <a href = "mailto:marciacarina931@gmail.com"><img src="https://icongr.am/simple/gmail.svg?size=35&color=cd1313&colored=false" title="Gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcia-carina/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=35&color=5576aa" title="Linkedin" target="_blank"></a> 
  
 </div>
+
+<br>
+
+## ⭐ GitHub Most Used Languages
+
+<img whith='380px' align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarina&include_all_commits=true&count_private=true&layout=compact" alt="ilustração do status do github">
+
+
+<br>
+ 
+
+
+
+
 
 
