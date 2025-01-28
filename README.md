@@ -33,7 +33,7 @@
 
 ### ⭐ GitHub Most Used Languages
 
-<img whith='380px' align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarina&include_all_commits=true&count_private=true&layout=compact" alt="ilustração do status do github">
+<img whith='380px' align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarina&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" alt="ilustração do status do github">
  
 
 
