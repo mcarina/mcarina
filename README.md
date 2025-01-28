@@ -7,7 +7,7 @@
 - 💼 Trabalhando como analista de sistemas na Evereste, Seduc-Am.
 - 🌱 Aprendendo mais sobre Laravel 11 e Next.js.
 
-## 🚀 Linguagens de Programação
+## 🚀 Minhas Skills
 - Linguagens de Programação:
   
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
