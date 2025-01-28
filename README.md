@@ -26,14 +26,12 @@
 ## ⚙️ Outros Conhecimentos:
 [![My Skills](https://skillicons.dev/icons?i=php,java,cpp,redis,nginx)](https://skillicons.dev)<br><br>
 
-### Contato:
-<div> 
-  <a href = "mailto:marciacarina931@gmail.com"><img src="https://icongr.am/simple/gmail.svg?size=35&color=cd1313&colored=false" title="Gmail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcia-carina/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=35&color=5576aa" title="Linkedin" target="_blank"></a> 
-</div>
-<br>
+## 📫 Contato
 
-## ⭐ GitHub Most Used Languages
+[![Gmail](https://img.shields.io/badge/-{marciacarina931@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{marciacarina931@gmail.com})](mailto:{marciacarina931@gmail.com})
+[![Linkedin: Ellen](https://img.shields.io/badge/-mcarina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcia-carina/)](https://www.linkedin.com/in/marcia-carina/)
+
+### ⭐ GitHub Most Used Languages
 
 <img whith='380px' align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarina&include_all_commits=true&count_private=true&layout=compact" alt="ilustração do status do github">
  
