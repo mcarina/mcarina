@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas.
-- 💼 Trabalhando como analista de sistemas na Evereste, Seduc-Am.
+- 💼 Trabalhando como desenvolvedora de software na Evereste, Seduc-Am.
 - 🌱 Aprendendo mais sobre Laravel 11 e Next.js.
 
 ## 🚀 Minhas Skills
