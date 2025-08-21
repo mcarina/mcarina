@@ -12,7 +12,7 @@
   
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
 
-- Banco de Dados:
+- Plataforma e Banco de Dados:
 
  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres,mysql)](https://skillicons.dev)<br><br>
 
