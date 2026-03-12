@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como desenvolvedora de software na Evereste, Seduc-Am.
-- 🌱 Aprendendo mais sobre Laravel 11 e Next.js.
+- 🌱 Aprendendo mais sobre C Sharp.
 
 ## 🚀 Minhas Skills
 - Linguagens de Programação:
