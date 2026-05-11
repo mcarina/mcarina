@@ -10,18 +10,18 @@
 ## 🚀 Minhas Skills
 - Linguagens de Programação:
   
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,cs)](https://skillicons.dev)<br><br>
 
-- Plataforma e Banco de Dados:
+- Banco de Dados:
 
- [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres,mysql)](https://skillicons.dev)<br><br>
+ [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)<br><br>
 
-- Frameworks e Bibliotecas: 
+- Frameworks, Bibliotecas e Plataformas: 
 
- [![My Skills](https://skillicons.dev/icons?i=nextjs,angular,react,django,flask,laravel)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,angular,react,django,flask,laravel,dotnet)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github,vscode)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,vscode)](https://skillicons.dev)<br><br>
 
 ## ⚙️ Outros Conhecimentos:
 [![My Skills](https://skillicons.dev/icons?i=php,java,cpp,redis,nginx)](https://skillicons.dev)<br><br>
