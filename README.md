@@ -30,10 +30,4 @@
 
 [![Gmail](https://img.shields.io/badge/-{marciacarina931@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{marciacarina931@gmail.com})](mailto:{marciacarina931@gmail.com})
 [![Linkedin: Ellen](https://img.shields.io/badge/-mcarina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcia-carina/)](https://www.linkedin.com/in/marcia-carina/)
-
-### ⭐ GitHub Most Used Languages
-
-<img whith='580px' align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarina&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" alt="ilustração do status do github">
  
-
-
